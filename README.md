@@ -87,8 +87,8 @@ Happy Reporting! :)
 
 ## HackTheBox Report Template*
 <p float="left">
-<a href="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Demo.pdf">
-<img width="250" alt="OSCP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Demo-Preview.png" style="border:1px solid;">
+<a href="https://docs.sysreptor.com/assets/reports/HTB-Report-Demo.pdf">
+<img width="250" alt="HTB Report" src="CPTS-Report-Preview.png" style="border:1px solid;">
 </a>
 </p>
 
