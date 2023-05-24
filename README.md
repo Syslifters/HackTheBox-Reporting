@@ -94,7 +94,7 @@ Happy Reporting! :)
 
 * The structure follows the official [HTB]([https://www.offsec.com/](https://www.hackthebox.com/)) reports (with kind permission by HackTheBox).
 
-## Offensive Security Abbreviations
+## HackTheBox Abbreviations
 
 Exam acronym | Exam name                                         | Course details
 -------------|---------------------------------------------------|-------------------
