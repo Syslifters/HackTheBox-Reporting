@@ -75,7 +75,7 @@ Happy Reporting! :)
 💲 Free  
 📝 Write in markdown  
 ⚙️ Render your report to PDF  
-🛡️ CPTS, CBBH
+🛡️ CPTS, CBBH </br>
 🚀 Fully customizable  
 🎉  No need for Word  
 👌  No local software troubleshooting
