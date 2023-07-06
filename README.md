@@ -82,7 +82,7 @@ Happy Reporting! :)
 
 
 ## Your HackTheBox Report Within Minutes
-![GIF](https://github.com/Syslifters/OSCP-Reporting/blob/main/oscp-reporting.gif)
+![GIF](htb-reporting.gif)
 
 
 ## HackTheBox Report Template*
