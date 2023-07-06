@@ -87,7 +87,7 @@ Happy Reporting! :)
 
 ## Hack The Box Report Template*
 <p float="left">
-<a href="https://docs.sysreptor.com/assets/reports/HTB-CPTS-Report-Demo.pdf">
+<a href="https://docs.sysreptor.com/assets/reports/HTB-CPTS-Report.pdf">
 <img width="250" alt="HTB Report" src="CPTS-Report-Preview.png" style="border:1px solid;">
 </a>
 </p>
