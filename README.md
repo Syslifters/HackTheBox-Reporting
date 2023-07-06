@@ -41,10 +41,10 @@
 
 Hello 👋 we are the [Syslifters](https://www.syslifters.com/en/home), the brainos behind SysReptor. SysReptor is a fully customisable, offensive security reporting tool designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click - in the cloud or on-premise!
 
-## HackTheBox Reporting
-This is our dedicated [HTB](https://www.hackthebox.com/) reporting repository that showcases the HackTheBox sample report design created with SysReptor. You can use it for free to write your HTB Certified Penetration Testing Specialist (CPTS) or Certified Bug Bounty Hunter (CBBH) exam report. Our actual SysReptor repository can be found on Github here: [SysReptor](https://github.com/Syslifters/sysreptor). 
+## Hack The Box Reporting
+This is our dedicated [HTB](https://www.hackthebox.com/) reporting repository that showcases the Hack The Box sample report design created with SysReptor. You can use it for free to write your HTB Certified Penetration Testing Specialist (CPTS) or Certified Bug Bounty Hunter (CBBH) exam report. Our actual SysReptor repository can be found on Github here: [SysReptor](https://github.com/Syslifters/sysreptor). 
 
-A rendered version of the report design can be seen below, the design itself is fully customizable ofc. Try it out and use SysReptor for free to write your HackTheBox CPTS or CBBH reports. Feedback is very welcome! ❤️
+A rendered version of the report design can be seen below, the design itself is fully customizable ofc. Try it out and use SysReptor for free to write your Hack The Box CPTS or CBBH reports. Feedback is very welcome! ❤️
 
 <h2 align="center">🚀 Sign up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">here</a></h2>
 <br>
@@ -81,20 +81,20 @@ Happy Reporting! :)
 👌  No local software troubleshooting
 
 
-## Your HackTheBox Report Within Minutes
+## Your Hack The Box Report Within Minutes
 ![GIF](htb-reporting.gif)
 
 
-## HackTheBox Report Template*
+## Hack The Box Report Template*
 <p float="left">
-<a href="https://docs.sysreptor.com/assets/reports/HTB-Report-Demo.pdf">
+<a href="https://docs.sysreptor.com/assets/reports/HTB-CPTS-Report-Demo.pdf">
 <img width="250" alt="HTB Report" src="CPTS-Report-Preview.png" style="border:1px solid;">
 </a>
 </p>
 
 * The structure follows the official [HTB]([https://www.offsec.com/](https://www.hackthebox.com/)) reports (with kind permission by HackTheBox).
 
-## HackTheBox Abbreviations
+## Hack The Box Abbreviations
 
 Exam acronym | Exam name                                         | Course details
 -------------|---------------------------------------------------|-------------------
