@@ -29,7 +29,7 @@
 
 ---
 
-## Hack The Box Reporting
+## Hack The Box Reporting ([officially recommended](https://www.hackthebox.com/blog/certification-templates))
 This is our [HTB](https://www.hackthebox.com/) reporting repository showcasing Hack The Box reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your Hack The Box CPTS, CHHB or CDSA reports.  
 Feedback is very welcome! ❤️
 
