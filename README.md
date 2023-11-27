@@ -68,7 +68,7 @@ Happy Reporting! 🦖
 
 
 ## Your Hack The Box Report Within Minutes
-![GIF](https://docs.sysreptor.com/images/htb-reporting.gif)
+![GIF](https://docs.sysreptor.com/images/cpts-reporting.gif)
 
 
 ## Hack The Box Report Template
