@@ -97,5 +97,5 @@ Exam acronym | Exam name                                         | Course detail
 **CDSA**     | Certified Defensive Security Analyst              | HTB Certified Defensive Security Analyst (HTB CDSA) is a highly hands-on certification that assesses the candidates’ security analysis, SOC operations, and incident handling skills. HTB Certified Defensive Security Analyst (HTB CDSA) certification holders will possess technical competency in the security analysis, SOC operations, and incident handling domains at an intermediate level. They will be able to spot security incidents and identify avenues of detection that may not be immediately apparent from simply looking at the available data/evidence. They will also excel at thinking outside the box, correlating disparate pieces of data/evidence, and pivoting relentlessly to determine the maximum impact of an incident. Another skill they will bring is the creation of actionable security incident reports tailored for diverse audiences.
 
 <h1 align="center">
-    <a href="https://docs.sysreptor.com/"><img src="/profile/Tower_SysReptor.svg" width="100%" alt="SysReptor"></a>
+    <a href="https://docs.sysreptor.com/"><img src="/assets/Tower_SysReptor.svg" width="100%" alt="SysReptor"></a>
 </h1>
