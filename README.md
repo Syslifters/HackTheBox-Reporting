@@ -1,7 +1,7 @@
 # Hack The Box Reporting using SysReptor
 <h1 align="center">
     <br>
-    <a href="https://docs.sysreptor.com/"><img src="/assets/logo.png" alt="SysReptor"></a>
+    <a href="https://docs.sysreptor.com/"><img src="/assets/Banner-SysReptor-HTB.svg" width="100%" alt="SysReptor"></a>
 </h1>
 
 <p align="center">
@@ -33,6 +33,9 @@
 This is our [HTB](https://www.hackthebox.com/) reporting repository showcasing Hack The Box reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your Hack The Box CPTS, CHHB or CDSA reports.  
 Feedback is very welcome! ❤️
 
+<h3 align="center">
+    <a href="https://htb.sysreptor.com/htb/signup"><img src="/assets/Reptor_Schild_Signup.svg" width="15%" alt="Signup"></a>
+</h3>
 <h2 align="center">🚀 Sign up <a class="md-button" href="https://htb.sysreptor.com/htb/signup/">here</a> (it's free)</h2>
 
 Already have an account? [Login here.](https://labs.sysre.pt)
