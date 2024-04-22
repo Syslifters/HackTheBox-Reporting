@@ -1,6 +1,6 @@
 # Hack The Box Reporting using SysReptor
 <h1 align="center">
-    <a href="https://docs.sysreptor.com/"><img src="/assets/Banner-SysReptor-HTB1.svg" width="100%" alt="SysReptor"></a>
+    <a href="https://docs.sysreptor.com/"><img src="/assets/Banner-SysReptor-HTB.svg" width="100%" alt="SysReptor"></a>
 </h1>
 
 <p align="center">
