@@ -64,7 +64,7 @@ Happy Reporting! 🦖
 💲 Free  
 📝 Write in markdown  
 ⚙️ Render to PDF  
-🛡️ CPTS, CBBH, CDSA, CWEE, CAPE </br>
+🛡️ CPTS, CBBH, CDSA, CWEE, CAPE, CJCA </br>
 🚀 Fully customizable  
 👌  No local software troubleshooting
 
