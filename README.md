@@ -29,7 +29,7 @@
 ---
 
 ## Hack The Box Reporting ([officially recommended](https://www.hackthebox.com/blog/certification-templates))
-This is our [HTB](https://www.hackthebox.com/) reporting repository showcasing Hack The Box reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your Hack The Box CPTS, CBBH, CDSA, CWEE or CAPE reports.  
+This is our [HTB](https://www.hackthebox.com/) reporting repository showcasing Hack The Box reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your Hack The Box CPTS, CBBH, CDSA, CWEE, CAPE or CJCA reports.  
 Feedback is very welcome! ❤️
 
 <h3 align="center">
@@ -64,7 +64,7 @@ Happy Reporting! 🦖
 💲 Free  
 📝 Write in markdown  
 ⚙️ Render to PDF  
-🛡️ CPTS, CBBH, CDSA, CWEE, CAPE </br>
+🛡️ CPTS, CBBH, CDSA, CWEE, CAPE, CJCA </br>
 🚀 Fully customizable  
 👌  No local software troubleshooting
 
