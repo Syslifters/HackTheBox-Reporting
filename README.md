@@ -29,7 +29,7 @@
 ---
 
 ## Hack The Box Reporting ([officially recommended](https://www.hackthebox.com/blog/certification-templates))
-This is our [HTB](https://www.hackthebox.com/) reporting repository showcasing Hack The Box reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your Hack The Box CPTS, CBBH, CDSA, CWEE, CAPE or CJCA reports.  
+This is our [HTB](https://www.hackthebox.com/) reporting repository showcasing Hack The Box reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your Hack The Box CPTS, CWES, CDSA, CWEE, CAPE or CJCA reports.  
 Feedback is very welcome! ❤️
 
 <h3 align="center">
@@ -64,7 +64,7 @@ Happy Reporting! 🦖
 💲 Free  
 📝 Write in markdown  
 ⚙️ Render to PDF  
-🛡️ CPTS, CBBH, CDSA, CWEE, CAPE, CJCA </br>
+🛡️ CPTS, CWES, CDSA, CWEE, CAPE, CJCA </br>
 🚀 Fully customizable  
 👌  No local software troubleshooting
 
@@ -79,8 +79,8 @@ Happy Reporting! 🦖
 <img width="250" alt="HTB CPTS Report" src="https://docs.sysreptor.com/assets/reports/HTB-CPTS-Report-Preview.png" style="border:1px solid;">
 </a>
 
-<a href="https://docs.sysreptor.com/assets/reports/HTB-CBBH-Report.pdf">
-<img width="250" alt="HTB CBBH Report" src="https://docs.sysreptor.com/assets/reports/HTB-CBBH-Report-Preview.png" style="border:1px solid;">
+<a href="https://docs.sysreptor.com/assets/reports/HTB-CWES-Report.pdf">
+<img width="250" alt="HTB CWES Report" src="https://docs.sysreptor.com/assets/reports/HTB-CWES-Report-Preview.png" style="border:1px solid;">
 </a>
 
 <a href="https://docs.sysreptor.com/assets/reports/HTB-CDSA-Report.pdf">
@@ -105,7 +105,7 @@ Happy Reporting! 🦖
 Exam acronym | Exam name                                         | Course details
 -------------|---------------------------------------------------|-------------------
 **CPTS**     | Certified Penetration Testing Specialist          | HTB Certified Penetration Testing Specialist (HTB CPTS) is a highly hands-on certification that assesses the candidates’ penetration testing skills. HTB Certified Penetration Testing Specialist certification holders will possess technical competency in the ethical hacking and penetration testing domains at an intermediate level. They will be able to spot security issues and identify avenues of exploitation that may not be immediately apparent from searching for CVEs or known exploit PoCs. They can also think outside the box, chain multiple vulnerabilities to showcase maximum impact, and actionably help organizations remediate vulnerabilities through commercial-grade pentesting reports.
-**CBBH**     | Certified Bug Bounty Hunter                       | HTB Certified Bug Bounty Hunter (HTB CBBH) is a highly hands-on certification that assesses the candidates’ bug bounty hunting and web application pentesting skills. HTB Certified Bug Bounty Hunter certification holders will possess technical competency in the bug bounty hunting and web application penetration testing domains at an intermediate level. They will be able to spot security issues and identify avenues of exploitation that may not be immediately apparent from searching for CVEs or known exploit PoCs. They can also think outside the box, chain multiple vulnerabilities to showcase maximum impact, and actionably help developers remediate vulnerabilities through commercial-grade bug reports.
+**CWES**     | Certified Web Exploitation Specialist             | HTB Certified Web Exploitation Specialist (HTB CWES) is a highly hands-on certification that assesses the candidates’ web application pentesting skills. HTB Certified Web Exploitation Specialist certification holders will possess technical competency in the web application penetration testing domains at an intermediate level. They will be able to spot security issues and identify avenues of exploitation that may not be immediately apparent from searching for CVEs or known exploit PoCs. They can also think outside the box, chain multiple vulnerabilities to showcase maximum impact, and actionably help organizations remediate vulnerabilities through commercial-grade pentesting reports.
 **CDSA**     | Certified Defensive Security Analyst              | HTB Certified Defensive Security Analyst (HTB CDSA) is a highly hands-on certification that assesses the candidates’ security analysis, SOC operations, and incident handling skills. HTB Certified Defensive Security Analyst (HTB CDSA) certification holders will possess technical competency in the security analysis, SOC operations, and incident handling domains at an intermediate level. They will be able to spot security incidents and identify avenues of detection that may not be immediately apparent from simply looking at the available data/evidence. They will also excel at thinking outside the box, correlating disparate pieces of data/evidence, and pivoting relentlessly to determine the maximum impact of an incident. Another skill they will bring is the creation of actionable security incident reports tailored for diverse audiences.
 **CWEE**     | Certified Web Exploitation Expert              | HTB Certified Web Exploitation Expert (HTB CWEE) is a highly hands-on certification that assesses candidates' skills in identifying advanced and hard-to-find web vulnerabilities using both black box and white box techniques. HTB CWEE certification holders will possess technical competency in the web security, web penetration testing, and secure coding domains at an advanced level and be well-versed in the application debugging, source code review, and custom exploit development aspects of web security testing. They will also be able to professionally conduct web penetration tests against modern and highly secure web applications, as well as report vulnerabilities found in code or arising from logical errors.
 **CAPE**     | Certified Active Directory Pentesting Expert              | HTB Certified Active Directory Pentesting Expert (HTB CAPE) is a highly hands-on certification assessing candidates' skills in identifying and exploiting advanced Active Directory (AD) vulnerabilities. HTB CAPE certification holders will possess technical competency in AD and Windows penetration testing, understanding complex attack paths, and employing advanced techniques to exploit them. HTB CAPE certification holders will demonstrate proficiency in executing sophisticated attacks abusing different authentication protocols such as Kerberos and NTLM and abusing misconfigurations within AD components and standard applications in AD environments such as Active Directory Certificate Services (ADCS), Windows Update Server Services (WSUS), Exchange, and Domain Trusts. Furthermore, they will be adept at leveraging specialized tools to exploit AD from Linux and Windows and utilizing Command and Control (C2) frameworks for post-exploitation operations. They will also be able to conduct internal penetration tests professionally against modern AD environments.
