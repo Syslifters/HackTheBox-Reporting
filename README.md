@@ -24,13 +24,18 @@
 </a>
 </p>
 
-<h4 align="center">Pentest Reporting made easy: Design in HTML, Write in Markdown, Render to PDF. Self-hosted or Cloud.</h4>
+<h4 align="center">An easy and customizable pentest reporting platform designed to simplify pentest report creation for security professionals.
+</h4>
 
 ---
 
 ## Hack The Box Reporting ([officially recommended](https://www.hackthebox.com/blog/certification-templates))
-This is our [HTB](https://www.hackthebox.com/) reporting repository showcasing Hack The Box reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your Hack The Box CPTS, CWES, CDSA, CWEE, CAPE or CJCA reports.  
-Feedback is very welcome! ❤️
+This repository showcases [Hack The Box (HTB)](https://www.hackthebox.com/) report templates built with [SysReptor](https://github.com/Syslifters/sysreptor), a fully customizable pentest reporting platform. 
+
+Supported certifications:  
+**CPTS**, **CWES**, **CDSA**, **CWEE**, **CAPE**, **CJCA**
+
+Focus on hacking, not the formatting. Best of luck with your Hack The Box journey! ❤️
 
 <h3 align="center">
     <a href="https://htb.sysreptor.com/htb/signup"><img src="/assets/Reptor_Schild_Signup.svg" width="15%" alt="Signup"></a>
@@ -39,6 +44,9 @@ Feedback is very welcome! ❤️
 
 Already have an account? [Login here.](https://labs.sysre.pt)
 <br>
+
+## Your Hack The Box Report Within Minutes
+![GIF](https://docs.sysreptor.com/images/cpts-reporting.gif)
 
 ### Prefer self-hosting (also free)?
 
@@ -54,10 +62,7 @@ curl -s "https://docs.sysreptor.com/assets/htb-demo-projects.tar.gz" | docker co
 <h4>💡 Have a look at our <a class="md-button" href="https://docs.sysreptor.com/">documentation</a>.</h4>
 <br>
 
-PS: Are you missing a template, have feedback or any other questions?  
-Let us know! Open an issue or [mail us](https://docs.sysreptor.com/contact-us/) and are happy to help you.
-
-Happy Reporting! 🦖  
+Missing a template or have questions? Open an [issue or contact us](https://docs.sysreptor.com/contact-us/). We're happy to help.
 
 
 ## Your Benefits
@@ -67,11 +72,6 @@ Happy Reporting! 🦖
 🛡️ CPTS, CWES, CDSA, CWEE, CAPE, CJCA </br>
 🚀 Fully customizable  
 👌  No local software troubleshooting
-
-
-## Your Hack The Box Report Within Minutes
-![GIF](https://docs.sysreptor.com/images/cpts-reporting.gif)
-
 
 ## Hack The Box Report Template
 <p float="left">
