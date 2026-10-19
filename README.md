@@ -33,7 +33,7 @@
 This repository showcases [Hack The Box (HTB)](https://www.hackthebox.com/) report templates built with [SysReptor](https://github.com/Syslifters/sysreptor), a fully customizable pentest reporting platform. 
 
 Supported certifications:  
-**CPTS**, **CWES**, **CDSA**, **CWEE**, **CAPE**, **CJCA**, **CWPE**, **COAE**
+**CPTS**, **CWES**, **CDSA**, **CWEE**, **CAPE**, **CJCA**, **CWPE**, **COAE**, **CDEP**
 
 Focus on hacking, not the formatting. Best of luck with your Hack The Box journey! ❤️
 
@@ -106,6 +106,10 @@ Missing a template or have questions? Open an [issue or contact us](https://docs
 <a href="https://docs.sysreptor.com/assets/reports/HTB-COAE-Report.pdf">
 <img width="250" alt="HTB COAE Report" src="https://docs.sysreptor.com/assets/reports/HTB-COAE-Report-Preview.png" style="border:1px solid;">
 </a>
+
+<a href="https://docs.sysreptor.com/assets/reports/HTB-CDEP-Report.pdf">
+<img width="250" alt="HTB CDEP Report" src="https://docs.sysreptor.com/assets/reports/HTB-CDEP-Report-Preview.png" style="border:1px solid;">
+</a>
 </p>
 
 ## Hack The Box Abbreviations
@@ -120,6 +124,7 @@ Exam acronym | Exam name                                         | Course detail
 **CJCA**     | Certified Junior Cybersecurity Associate              | HTB Certified Junior Cybersecurity Associate (HTB CJCA) is a highly hands-on certification that assesses the candidates’ cybersecurity assessment skills. HTB Certified Junior Cybersecurity Associate holders demonstrate foundational technical competency across both offensive and defensive cybersecurity domains. They are equipped to identify common vulnerabilities, perform basic (post-)exploitation, and recognize potential security gaps. They are also capable of conducting SIEM-assisted security monitoring, analyzing network traffic and logs, and detecting intrusions. With hands-on experience in these areas and a hybrid skill set, they can assess and report on security issues in enterprise environments.
 **CWPE**     | Certified Wi-Fi Pentesting Expert              | The HTB Certified Wi-Fi Pentesting Expert (HTB CWPE) is designed for professionals seeking to master real-world Wi-Fi exploitation. Through a rigorous, hands-on assessment, candidates demonstrate their ability to attack and compromise wireless networks across all major protocols, including WPA3 and WPA-Enterprise. HTB CWPE certified experts are skilled in deploying rogue access points, harvesting credentials, bypassing captive portals, exploiting routers and leveraging advanced tools to penetrate even hardened enterprise wireless environments. Using industry standard tools such as Airgeddon, Eaphammer, Kismet, Wifipumpkin3, Bettercap, and Aircrack-ng, candidates learn to exploit vulnerabilities across WEP, WPA, WPA2, WPA3, and WPA-Enterprise networks. Beyond wireless compromise, CWPE professionals are also capable of pivoting into internal networks and gaining an initial Active Directory foothold by exploiting weaknesses in enterprise Wi-Fi networks.
 **COAE**     | Certified Offensive AI Export             | HTB COAE is a hands-on certification assessing knowledge gained by a curriculum co-developed with Google on identifying and exploiting vulnerabilities in AI and machine learning systems. Certification holders demonstrate technical competency in adversarial machine learning (evasion attacks, data poisoning), LLM prompt injection and jailbreaking, LLM output exploitation (XSS, SQLi, code injection), AI application and system security (MCP vulnerabilities, deployment tampering, model reverse engineering), AI defense (guardrails, adversarial training and tuning), and AI privacy (membership inference, differential privacy). The curriculum aligns with Google's Secure AI Framework (SAIF), the OWASP Machine Learning Security Top 10, the OWASP Top 10 for Agentic Applications, and the OWASP Top 10 for LLM Applications 2025. Certification holders can also conduct professional AI red-team assessments and communicate findings effectively.
+**CDEP**     | Certified Detection Engineering Principal              | HTB Certified Detection Engineering Principal (HTB CDEP) is an advanced, practical, scenario-based certification designed to validate learners’ ability to apply detection engineering concepts in real-world enterprise environments. The candidates will work across areas including Windows and Linux telemetry, process and memory activity, API and callstack analysis, low-level detection opportunities, analyzing suspicious binaries and debugging the execution flows, identifying relevant attack techniques, and developing robust detection logic.
 
 <h1 align="center">
     <a href="https://docs.sysreptor.com/"><img src="/assets/Tower_SysReptor.svg" width="100%" alt="SysReptor"></a>
